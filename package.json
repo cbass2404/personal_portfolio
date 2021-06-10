@@ -1,0 +1,19 @@
+{
+  "name": "personal_portfolio",
+  "version": "1.0.0",
+  "description": "Fully interactive portfolio app to showcase skills, qualifications, projects, and be contacted",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "graphql",
+    "express",
+    "mongodb",
+    "redux"
+  ],
+  "author": "Cory Bass",
+  "license": "ISC"
+}
